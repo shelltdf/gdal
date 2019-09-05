@@ -36,6 +36,7 @@
 #include <cstring>
 
 #include <algorithm>
+#include <vector>
 
 #include "cpl_config.h"
 #include "cpl_conv.h"
